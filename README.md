@@ -7,7 +7,7 @@ ___
 ## Idea
 1. The user draws the number on the canvas space.
 2. The canvas is "auto-captured" every 4s and is converted to postscript and then to an image using Pillow.
-3. This number is then identified using the saved image and the serialized model that is then displayed on the screen.
+3. This number is then identified using the saved image and the serialized model (trained on the MNIST dataset) that is then displayed on the screen.
 
 ___
 
