@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition
 
-This is a handwritten digit recognition application using keras and tkinter. 
+This is a handwritten digit recognition application made using keras and tkinter. The model itself without the gui could be used for other applications such as a sudoku solver.
 <br>
 ___
 
